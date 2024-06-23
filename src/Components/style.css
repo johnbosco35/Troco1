@@ -1,0 +1,15 @@
+@keyframes fall {
+  0% {
+    transform: translateY(-50px); /* Start position above */
+    opacity: 0; /* Initially invisible */
+  }
+  100% {
+    transform: translateY(0); /* End position */
+    opacity: 1; /* Fully visible */
+  }
+}
+
+.falling-text span {
+  display: inline-block; /* Make the span inline-block for the falling animation */
+  animation: fall 1s ease-in-out forwards; /* Apply the animation to the span */
+}
