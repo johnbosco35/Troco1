@@ -4,7 +4,6 @@ import pix from "../assets/pexels-photo.webp";
 import google from "../assets/google-play-icon.png";
 import apple from "../assets/apple.png";
 import "./style.css";
-// import Typewriter from "typewriter-effect";
 
 const Hero = () => {
   // const [texts, setTexts] = useState([
