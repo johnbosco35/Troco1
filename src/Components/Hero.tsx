@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+// import { useState, useEffect } from "react";
 import { styled } from "styled-components";
 import pix from "../assets/pexels-photo.webp";
 import google from "../assets/google-play-icon.png";
@@ -7,19 +7,19 @@ import "./style.css";
 // import Typewriter from "typewriter-effect";
 
 const Hero = () => {
-  const [texts, setTexts] = useState([
-    "businesses",
-    "startups",
-    "entrepreneurs",
-  ]);
-  const [currentTextIndex, setCurrentTextIndex] = useState(0);
+  // const [texts, setTexts] = useState([
+  //   "businesses",
+  //   "startups",
+  //   "entrepreneurs",
+  // ]);
+  // const [currentTextIndex, setCurrentTextIndex] = useState(0);
 
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentTextIndex((prevIndex) => (prevIndex + 1) % texts.length);
-    }, 3000); // Change text every 3 seconds
-    return () => clearInterval(interval);
-  }, [texts.length]);
+  // useEffect(() => {
+  //   const interval = setInterval(() => {
+  //     setCurrentTextIndex((prevIndex) => (prevIndex + 1) % texts.length);
+  //   }, 3000); // Change text every 3 seconds
+  //   return () => clearInterval(interval);
+  // }, [texts.length]);
 
   return (
     <Container id="home">
