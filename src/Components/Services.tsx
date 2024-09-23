@@ -62,7 +62,7 @@ const Services = () => {
             <h3>Reduced Risk
             </h3>
             <p style={{ width: "200px", marginBottom: "25px" }}>
-            Troco Limited uses a reliable and strong payment method to remove the risk of selling to an unidentified party.
+            Troco Limited uses a reliable and strong payment method to remove the risk of selling to an unidentified party.
             </p>
             <a href="#">DOWNLOAD</a>
           </Cards>

@@ -12,7 +12,7 @@ const Portfolio = () => {
         Easy-to-use and secure online escrow for both buyers and sellers.
         </h1>
         <p>
-        This software makes sure that your transactions are easy and your money is safe with its user-friendly UI, cutting-edge security measures, and smooth experience. Easily handle transactions with ease and security at your fingertips by downloading the SafeDeposit Troco App now!
+        This software makes sure that your transactions are easy and your money is safe with its user-friendly UI, cutting-edge security measures, and smooth experience. Easily handle transactions with ease and security at your fingertips by downloading the SafeDeposit,Troco,App now!
         </p>
         <ButHold>
           <Button>

@@ -25,7 +25,7 @@ const FewPoints = () => {
           
 Troco Limited guards you from dishonest users, but if you sense something is off, 
 please get in touch with us so we can help.
- Recall that Troco Limited will never email you for sensitive information.
+ Recall that Troco Limited will never email you for sensitive information.
           </p>
           <Circle>2</Circle>
         </Card>
